@@ -18,16 +18,15 @@ div {
 }
 
 img {
-    width: 585px;
+    width: 300px;
     margin: 0px auto;
     display: block;
-    margin-top: 150px;
-    margin-bottom: 125px;
+    margin-bottom: 50px;
 }
 
 p {
     color: #FFF;
-    font-size: 45px;
+    font-size: 30px;
     font-weight: 500;
 }
 
@@ -37,8 +36,8 @@ main {
 }
 
 .input-alternative {
-    width: 340px;
-    padding: 13px 233px 30px 16px;
+    width: 280px;
+    padding: 20px;
     color: #FFF;
     border-radius: 14px;
     border: 1px solid rgba(255, 255, 255, 0.20);
@@ -51,8 +50,8 @@ main {
 }
 
 .input-alternative-2 {
-    width: 340px;
-    padding: 13px 233px 30px 16px;
+    width: 250px;
+    padding: 20px;
     color: #FFF;
     border-radius: 14px;
     border: 1px solid rgba(255, 255, 255, 0.20);
@@ -72,7 +71,7 @@ main {
     justify-content: center;
     align-items: center;
     display: flex;
-    width: 340px;
+    width: 250px;
     margin: 80px auto;
     height: 70px;
     color:#FF0000;
